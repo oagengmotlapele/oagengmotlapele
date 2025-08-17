@@ -67,7 +67,6 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
 ## 📬 Get in Touch  
 <p align="center">
   <a href="mailto:oagengmtlapele@gmail.com" title="Email"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" alt="Email" width="40" height="40" style="color:#D14836"/></a>
@@ -77,8 +76,6 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/oagengmotlapele/" title="Instagram"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" alt="Instagram" width="40" height="40" style="color:#E4405F"/></a>
   <a href="https://wa.me/26772693981" title="WhatsApp"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" alt="WhatsApp" width="40" height="40" style="color:#25D366"/></a>
 </p>
-
-
 
 
 > ⚡ *Code is my real estate — I flip bugs into features faster than the housing market flips houses.*
