@@ -69,14 +69,13 @@ Here are some ideas to get you started:
 ---
 ## 📬 Get in Touch  
 <p align="center">
-  <a href="mailto:oagengmtlapele@gmail.com" title="Email"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="40" height="40"/></a>
-  <a href="https://www.linkedin.com/in/oageng-motlapele-853387264/" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://github.com/oagengmotlapele" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="40" height="40"/></a>
-  <a href="https://web.facebook.com/peacedodobane.sechele" title="Facebook"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="40" height="40"/></a>
-  <a href="https://www.instagram.com/oagengmotlapele/" title="Instagram"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40"/></a>
-  <a href="https://wa.me/26772693981" title="WhatsApp"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" width="40" height="40"/></a>
+  <a href="mailto:oagengmtlapele@gmail.com"><img src="https://img.shields.io/badge/Email-oagengmtlapele%40gmail.com-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/oageng-motlapele-853387264/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/oagengmotlapele"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+  <a href="https://web.facebook.com/peacedodobane.sechele"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/oagengmotlapele/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
+  <a href="https://wa.me/26772693981"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" /></a>
 </p>
-
 
 
 > ⚡ *Code is my real estate — I flip bugs into features faster than the housing market flips houses.*
