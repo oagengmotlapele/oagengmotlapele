@@ -69,13 +69,14 @@ Here are some ideas to get you started:
 ---
 ## 📬 Get in Touch  
 <p align="center">
-  <a href="mailto:oagengmtlapele@gmail.com" title="Email"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" alt="Email" width="40" height="40" style="color:#D14836"/></a>
-  <a href="https://www.linkedin.com/in/oageng-motlapele-853387264/" title="LinkedIn"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="color:#0077B5"/></a>
-  <a href="https://github.com/oagengmotlapele" title="GitHub"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="40" height="40" style="color:#181717"/></a>
-  <a href="https://web.facebook.com/peacedodobane.sechele" title="Facebook"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/facebook.svg" alt="Facebook" width="40" height="40" style="color:#1877F2"/></a>
-  <a href="https://www.instagram.com/oagengmotlapele/" title="Instagram"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" alt="Instagram" width="40" height="40" style="color:#E4405F"/></a>
-  <a href="https://wa.me/26772693981" title="WhatsApp"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" alt="WhatsApp" width="40" height="40" style="color:#25D366"/></a>
+  <a href="mailto:oagengmtlapele@gmail.com" title="Email"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/oageng-motlapele-853387264/" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="https://github.com/oagengmotlapele" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="40" height="40"/></a>
+  <a href="https://web.facebook.com/peacedodobane.sechele" title="Facebook"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="40" height="40"/></a>
+  <a href="https://www.instagram.com/oagengmotlapele/" title="Instagram"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40"/></a>
+  <a href="https://wa.me/26772693981" title="WhatsApp"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" width="40" height="40"/></a>
 </p>
+
 
 
 > ⚡ *Code is my real estate — I flip bugs into features faster than the housing market flips houses.*
